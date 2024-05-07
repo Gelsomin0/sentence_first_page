@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sentence_first_page/static/css/main.7acaea2f.css",
+    "main.js": "/sentence_first_page/static/js/main.07d3183d.js",
+    "index.html": "/sentence_first_page/index.html",
+    "main.7acaea2f.css.map": "/sentence_first_page/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/sentence_first_page/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
